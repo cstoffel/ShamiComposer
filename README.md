@@ -1,5 +1,5 @@
 # ShamiComposer Releases
 
-Public releases for ShamiComposer desktop builds.
+Public releases for ShamiComposer.
 
-ShamiComposer is an app for creating shamisen tablature. Currently in development with full public release coming in the future.
+ShamiComposer is an app for creating shamisen tablature. 
